@@ -9,12 +9,12 @@ RUN apt-get update && apt-get install -y \
     matchbox-window-manager \
     epiphany-browser \
     xserver-xorg-core \
-    xorg-video-abi-18 \
     xserver-xorg-video-vesa \
     xserver-xorg-video-fbdev \
     x11-xserver-utils \
     libgl1-mesa-dri \
     xwit \
+    htop \
     fbset \
     gnome-keyring \
     libnss3 \
