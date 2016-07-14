@@ -9,7 +9,6 @@ RUN apt-get update && apt-get install -y \
     matchbox-window-manager \
     epiphany-browser \
     xserver-xorg-core \
-    xserver-xorg-video-modesetting \
     xserver-xorg-video-vesa \
     xserver-xorg-video-fbdev \
     x11-xserver-utils \
