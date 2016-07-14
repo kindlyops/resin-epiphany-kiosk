@@ -8,14 +8,14 @@ RUN apt-get update && apt-get install -y \
     matchbox \
     matchbox-window-manager \
     epiphany-browser \
+    chromium-browser \
     xserver-xorg-core \
-    xserver-xorg-video-vesa \
-    xserver-xorg-video-fbdev \
     x11-xserver-utils \
     libgl1-mesa-dri \
     xwit \
     htop \
     fbset \
+    psmisc \
     gnome-keyring \
     libnss3 \
     xinit \
