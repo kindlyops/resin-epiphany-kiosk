@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y \
     matchbox \
     matchbox-window-manager \
     epiphany-browser \
-    chromium-browser \
+    xserver-xorg \
     xserver-xorg-core \
     x11-xserver-utils \
     libgl1-mesa-dri \
